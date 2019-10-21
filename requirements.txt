@@ -19,4 +19,4 @@ schedule==0.5.0
 six==1.11.0
 SQLAlchemy==1.2.14
 Telethon-sync==1.1.1
-urllib3==1.24.1
+urllib3==1.24.2
